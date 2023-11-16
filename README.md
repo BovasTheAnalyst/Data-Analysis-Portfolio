@@ -18,5 +18,5 @@ I am a dedicated and detail-oriented data analyst with a passion for transformin
 3.Power BI: I leverage Power BI to create dynamic reports and dashboards, providing stakeholders with clear and actionable insights.
 
 ## Projects
-### Data exploration using SQL : [LINK HERE](
+### Data exploration using SQL : [LINK HERE](https://github.com/BovasTheAnalyst/Data-Analysis-Portfolio/blob/a4abc0f194a8d53a7438322ea711a68c3a236706/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql)
 
