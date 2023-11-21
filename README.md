@@ -34,3 +34,39 @@ This data exploration project focuses on analyzing Covid-19 data using various S
 **Conclusion:**
 This project showcases a comprehensive analysis of Covid-19 data, providing valuable insights into the impact of the pandemic on different countries and continents. The use of SQL skills demonstrates a proficiency in handling and interpreting large datasets for meaningful conclusions.
 
+**Title:** Data Cleaning in SQL Queries: [HERE](https://github.com/BovasTheAnalyst/Data-Analysis-Portfolio/blob/dc6abe45f739d77d2b65459382337a20695d6df9/Data%20Cleaning%20Portfolio%20Project%20Queries.sql)
+
+**Overview:**
+This SQL data cleaning project focuses on preparing and refining data from the "NashvilleHousing" table within the "PortfolioProject" database. The cleaning process involves standardizing date formats, populating missing property addresses, breaking down address fields, converting 'Y' and 'N' to 'Yes' and 'No' in the "SoldAsVacant" field, removing duplicates, and finally, deleting unused columns.
+
+**Key Steps:**
+
+1. **Standardize Date Format:**
+   - Converts the "SaleDate" column to a standardized date format.
+   - Handles cases where the update might not work by creating a new column ("SaleDateConverted") and updating it.
+
+2. **Populate Property Address Data:**
+   - Identifies records with missing property addresses.
+   - Populates missing property addresses by joining the table with itself based on "ParcelID" and updating the null values.
+
+3. **Breaking Out Address into Individual Columns:**
+   - Splits the "PropertyAddress" column into separate columns for address and city, enhancing data organization.
+
+4. **Breaking Out Owner Address:**
+   - Utilizes the PARSENAME function to split the "OwnerAddress" into separate columns for address, city, and state.
+
+5. **Change 'Y' and 'N' to 'Yes' and 'No':**
+   - Converts values in the "SoldAsVacant" field to 'Yes' and 'No' for better clarity and consistency.
+
+6. **Remove Duplicates:**
+   - Identifies and keeps only unique records based on specified criteria using the ROW_NUMBER() window function.
+
+7. **Delete Unused Columns:**
+   - Removes unnecessary columns like "OwnerAddress," "TaxDistrict," "PropertyAddress," "SaleDate" to streamline the dataset.
+
+8. **Importing Data Using OPENROWSET and BULK INSERT (Optional):**
+   - Provides an alternative approach for importing data using OPENROWSET and BULK INSERT, which can be more advanced and visually appealing.
+
+**Conclusion:**
+This data cleaning project demonstrates a thorough process of standardizing, populating, and restructuring data to enhance its quality and usability. The SQL queries cover a range of cleaning tasks, showcasing skills in data manipulation and transformation.
+
