@@ -1,8 +1,13 @@
 # 📊 Data-Analysis-Portfolio
+
 Welcome to my GitHub portfolio! This repository showcases my projects and contributions to the open source community.
+
 ## About Me
+
 I am a dedicated and detail-oriented data analyst with a passion for transforming raw data into meaningful insights. With a solid foundation in data scraping, analysis, visualization, and cleaning, I specialize in extracting valuable information from diverse datasets. My analytical skills, combined with proficiency in SQL, Python, Tableau, Excel, and Power BI, empower me to uncover patterns, trends, and actionable insights that drive informed decision-making. I have successfully applied my skills in various projects. This experience has honed my ability to tackle complex analytical challenges and deliver valuable results. In the dynamic field of data analysis, I am committed to staying updated with the latest technologies and methodologies. I actively seek opportunities for professional development to enhance my skill set and contribute effectively to data-driven decision-making.
+
 ## Skills
+
 ### Data Analysis
 
 - 📉 Exploratory Data Analysis
@@ -18,8 +23,8 @@ I am a dedicated and detail-oriented data analyst with a passion for transformin
 
 - 🐍 Python
 
-- 🐘 SQ
-L
+- 🐘 SQL
+
 ### Tools
 
 1.Tableau: I use Tableau to create interactive and visually appealing data visualizations that facilitate understanding and decision-making.
@@ -148,3 +153,30 @@ Data integrity is crucial, and this project emphasizes it by showcasing the use 
 Interact with the data dynamically through filters, enabling users to tailor their exploration based on specific criteria. Whether focusing on a particular country, skill set, or demographic, users have the flexibility to extract the most relevant insights.
 
 This Power BI dashboard serves as a valuable resource for anyone interested in understanding the landscape of data professionals, from their geographical distribution to the skills that drive the industry forward. Explore the data, uncover trends, and gain a deeper appreciation for the diverse and dynamic world of data professionals!
+
+##  Certifications
+
+### -> Accenture North America Data Analytics and Visualization Job Simulation on Forage - January 2024: [HERE](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_HKAadNakNpdcWwiaz_1705042852427_completion_certificate.pdf)
+
+- Advised a hypothetical social media client through a comprehensive simulation as a Data Analyst.
+- Cleaned, modeled, and analyzed 7 datasets in Excel to uncover content trends, presenting key insights
+  through a PowerPoint deck and video to inform strategic decisions for both the client and internal
+  stakeholders.
+
+### -> PwC Switzerland Power BI Job Simulation on Forage - January 2024: [HERE](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_HKAadNakNpdcWwiaz_1705657040919_completion_certificate.pdf)
+
+- Advanced skills in creating impactful Power BI dashboards, honed through job simulation and client
+  interaction.
+- Strong communication skills showcased in providing concise insights and suggestions through emails.
+- Applied analytical problem-solving to HR data, uncovering root causes for executive-level gender balance
+  issues.
+
+### -> British Airways's Data Science job simulation on Forage - February 2024: [HERE](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_HKAadNakNpdcWwiaz_1707845992977_completion_certificate.pdf)
+
+- Completed a simulation focussing on how data science is a critical component
+  of British Airways success.
+- Scraped and analysed customer review data to uncover findings.
+- Built a predictive model to understand factors that influence buying
+  behaviour.
+
+
