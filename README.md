@@ -86,41 +86,22 @@ This SQL data cleaning project focuses on preparing and refining data from the "
 **Conclusion:**
 This data cleaning project demonstrates a thorough process of standardizing, populating, and restructuring data to enhance its quality and usability. The SQL queries cover a range of cleaning tasks, showcasing skills in data manipulation and transformation.
 
-### 3. Title: Automating Crypto Website API Pull Using Python: [HERE](https://github.com/BovasTheAnalyst/Data-Analysis-Portfolio/blob/65b615869efeadd7b18648cc6f2c70668c577118/Automate%20API%20Extraction%20%2B%20Appending%20Data%20%2B%20Extra%20--%20Project.ipynb)
+### 3. BRITISH AIRWAYS Data Science Project [HERE](https://github.com/BovasTheAnalyst/Data-Analysis-Portfolio/blob/65b615869efeadd7b18648cc6f2c70668c577118/Automate%20API%20Extraction%20%2B%20Appending%20Data%20%2B%20Extra%20--%20Project.ipynb)
 
-This project involves using the CoinMarketCap API to retrieve cryptocurrency data, process it, and visualize trends over time. Here's a brief summary of the project:
+This project involves scraping and analyzing review data of British Airways. Here's a brief summary of the project:
 
-1. **API Integration:**
-   - The project starts by making requests to the CoinMarketCap API to retrieve the latest cryptocurrency listings.
-   - The requests are made in a loop to collect data at regular intervals.
+- Utilized Python and various libraries such as Pandas, NumPy, and Scikit-learn within Jupyter Notebook for data analysis and model development.
+- Conducted exploratory data analysis (EDA) to identify patterns, trends, and correlations within the customer dataset.
+- Preprocessed data by handling missing values, outliers, and feature engineering to enhance model performance.
+- Employed machine learning algorithms including regression, classification, and ensemble methods to build predictive models.
+- Evaluated model performance using appropriate metrics such as accuracy, precision, recall, and F1-score.
+- Implemented cross-validation techniques to ensure model generalization and prevent overfitting.
+- Interpreted model results to extract actionable insights into customer behavior and purchasing decisions.
+- Created visualizations using libraries like Matplotlib and Seaborn to effectively communicate findings.
+- Developed a presentation in PowerPoint to convey project objectives, methodology, findings, and recommendations to stakeholders.
+- Practiced effective communication skills by presenting insights in a clear and concise manner, tailored to the audience's level of understanding and interest.
 
-2. **Data Processing:**
-   - The retrieved data is normalized and converted into a Pandas DataFrame for easy analysis.
-   - The DataFrame is continuously updated with new data in each iteration of the API calls.
 
-3. **Data Visualization:**
-   - The project utilizes Seaborn and Matplotlib for data visualization.
-   - It creates a line plot showing the price trends of a specific cryptocurrency (Bitcoin in this case) over time.
-
-4. **Additional Analysis:**
-   - The project calculates and visualizes the mean percentage changes in cryptocurrency prices over different time intervals (1 hour, 24 hours, 7 days, 30 days, 60 days, and 90 days).
-   - The data is reshaped and transformed to facilitate the creation of a categorical plot showing these percentage changes.
-
-5. **Data Storage:**
-   - The project demonstrates how to store the collected data in a CSV file for future reference.
-   - It includes code snippets for both creating a new CSV file and appending data to an existing one.
-
-6. **Enhancements:**
-   - There are code snippets for setting display options, such as showing all columns in the Pandas DataFrame and controlling the display format of floating-point numbers.
-
-7. **Automation:**
-   - The API calls are automated to run in a loop at regular intervals (every minute in this case).
-   - The project provides an example of how to stop the loop after a specific number of iterations.
-
-8. **Note:**
-   - There's a note about addressing potential issues with data retrieval and the use of the Anaconda Prompt command to adjust data rate limits.
-
-Overall, the project provides a comprehensive example of working with cryptocurrency data through an API, performing data analysis and visualization, and implementing automation for continuous data collection.
 
 ### 4. Title: Power BI Dashboard Project: Data Professional Survey Breakdown: [HERE](https://www.novypro.com/project/data-professionals-survey-breakdown-dashboard)
 
