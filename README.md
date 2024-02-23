@@ -86,7 +86,7 @@ This SQL data cleaning project focuses on preparing and refining data from the "
 **Conclusion:**
 This data cleaning project demonstrates a thorough process of standardizing, populating, and restructuring data to enhance its quality and usability. The SQL queries cover a range of cleaning tasks, showcasing skills in data manipulation and transformation.
 
-### 3. BRITISH AIRWAYS Data Science Project [HERE](https://github.com/BovasTheAnalyst/Data-Analysis-Portfolio/blob/65b615869efeadd7b18648cc6f2c70668c577118/Automate%20API%20Extraction%20%2B%20Appending%20Data%20%2B%20Extra%20--%20Project.ipynb)
+### 3. BRITISH AIRWAYS Data Science Project [HERE](https://github.com/BovasTheAnalyst/Data-Analysis-Portfolio/commit/5261e07c719b2c8f4f07813b1eaf2ca0a60d9d6e#diff-97436da600ac1f5185124da4e91cf86f7d500da6875d06766ec17d00cfbb766e)
 
 This project involves scraping and analyzing review data of British Airways. Here's a brief summary of the project:
 
